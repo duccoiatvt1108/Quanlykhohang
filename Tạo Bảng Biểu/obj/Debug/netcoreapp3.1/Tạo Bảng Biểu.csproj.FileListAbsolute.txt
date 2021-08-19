@@ -1,0 +1,28 @@
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\bin\Debug\netcoreapp3.1\Tạo Bảng Biểu.exe
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\bin\Debug\netcoreapp3.1\Tạo Bảng Biểu.deps.json
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\bin\Debug\netcoreapp3.1\Tạo Bảng Biểu.runtimeconfig.json
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\bin\Debug\netcoreapp3.1\Tạo Bảng Biểu.runtimeconfig.dev.json
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\bin\Debug\netcoreapp3.1\Tạo Bảng Biểu.dll
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\bin\Debug\netcoreapp3.1\Tạo Bảng Biểu.pdb
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.csproj.AssemblyReference.cache
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.Form2.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.Properties.Resources.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.csproj.GenerateResource.cache
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.AssemblyInfoInputs.cache
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.AssemblyInfo.cs
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.csproj.CoreCompileInputs.cache
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.dll
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.pdb
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo Bảng Biểu.genruntimeconfig.cache
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmProducts.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmMenu.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmWareHouse.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmStaff.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmRoom.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmAccountInf.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.Frmimport.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmAddNCC.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmExport.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmChangeWarehouse.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmHelp.resources
+D:\Dell\Project C#\Tạo Bảng Biểu\Tạo Bảng Biểu\obj\Debug\netcoreapp3.1\Tạo_Bảng_Biểu.FrmReport.resources
